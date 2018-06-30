@@ -7,17 +7,17 @@ permalink: /:title
 encoding: UTF-8
 gems: [jekyll-paginate]
 
-title: Github Blog Template
-url: http://litaotao.github.io
+title: 赵虎阳的个人主页
+url: http://gracefully.github.io
 feed: /atom.xml
-author_info: <a href="http://litaotao.github.io/">taotaoli</a>
+author_info: <a href="http://gracefully.github.io/">gracefully</a>
 
 myblog:
   gavatar: images/2.jpg
-  gpname: litaotao
-  linkedin: http://www.linkedin.com/in/taotaoli
-  github: https://github.com/litaotao
-  email: mailto:taotao.engineer@gmail.com
+  gpname: 赵虎阳
+  linkedin: http://www.linkedin.com/in/gracefully
+  github: https://github.com/gracefully
+  email: mailto:zhaowuyang20008@163.com
   coverimgs: []
   postbgimg: []
 
