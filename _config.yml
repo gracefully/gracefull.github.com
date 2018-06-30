@@ -18,7 +18,7 @@ myblog:
   linkedin: http://www.linkedin.com/in/gracefully
   github: https://github.com/gracefully
   email: mailto:zhaowuyang20008@163.com
-  coverimgs: ["https://gracefully.github.io/images/cover_9.jpg"]
+  coverimgs: [images/cover_9.jpg]
   postbgimg: []
 
 categories: [python, books, php]
