@@ -21,4 +21,4 @@ myblog:
   coverimgs: [images/cover_9.jpg]
   postbgimg: []
 
-categories: [python, books, php]
+categories: [python, books, php, daily]
